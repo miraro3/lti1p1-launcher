@@ -1,0 +1,25 @@
+{
+  "name": "lti1p1-launcher",
+  "version": "1.0.0",
+  "description": "A self contained client-side launcher for LTI 1.1 content",
+  "type": "module",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/miraro3/lti1p1-launcher.git"
+  },
+  "keywords": [
+    "LTI",
+    "Learning tools interopability",
+    "E-Learning"
+  ],
+  "author": "Benjamin Vansteelandt",
+  "license": "GPL-3.0",
+  "bugs": {
+    "url": "https://github.com/miraro3/lti1p1-launcher/issues"
+  },
+  "homepage": "https://github.com/miraro3/lti1p1-launcher#readme"
+}
