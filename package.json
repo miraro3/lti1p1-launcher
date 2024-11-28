@@ -1,6 +1,6 @@
 {
   "name": "lti1p1-launcher",
-  "version": "1.0.0",
+  "version": "1.0.2",
   "description": "A self contained client-side launcher for LTI 1.1 content",
   "type": "module",
   "main": "index.js",
